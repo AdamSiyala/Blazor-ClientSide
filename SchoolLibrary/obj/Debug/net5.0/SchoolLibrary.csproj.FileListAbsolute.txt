@@ -1,0 +1,12 @@
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/bin/Debug/net5.0/SchoolLibrary.deps.json
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/bin/Debug/net5.0/SchoolLibrary.dll
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/bin/Debug/net5.0/ref/SchoolLibrary.dll
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/bin/Debug/net5.0/SchoolLibrary.pdb
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.csproj.AssemblyReference.cache
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.AssemblyInfoInputs.cache
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.AssemblyInfo.cs
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.csproj.CoreCompileInputs.cache
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.dll
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/ref/SchoolLibrary.dll
+/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/obj/Debug/net5.0/SchoolLibrary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLl2KIy2HG61A0pgXzIJbOWKzcerR8PZT6Dj9lR70gbdwv/n26XnWbnOthiSzBpZxzYKd6iyxyscBrXj+xyyHA==",
+  "success": true,
+  "projectFilePath": "/Users/adam.siyala/Desktop/BzrClientSide2.0/SchoolLibrary/SchoolLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/adam.siyala/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
