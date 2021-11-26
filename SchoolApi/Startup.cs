@@ -28,13 +28,20 @@ namespace SchoolApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<SchoolDbContext>(options =>
-        options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SchoolApi", Version = "v1" });
             });
+            // Add Cors
+            services.AddCors(o => o.AddPolicy("Policy", builder => {
+            builder.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader();
+}));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,6 +59,8 @@ namespace SchoolApi
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("Policy");
 
             app.UseEndpoints(endpoints =>
             {
